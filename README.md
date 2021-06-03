@@ -1,6 +1,6 @@
 # moneyCourseBot
 ---
-
+Technical task
 ========================
 ---
 Links on open API
