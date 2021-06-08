@@ -7,8 +7,30 @@ Bot for taking all the exchange rate of dollar, compare it and post the best rat
 ---
 Links on open API
 ========================
-1. https://alfa-biz.by/service/open-api/
-2. 
+1. https://alfa-biz.by/
+2. https://belarusbank.by/
+3. https://www.belveb.by/
+4. https://www.vtb.ru/
+5. https://bnb.by/
+6. https://www.bsb.by/
+7. https://absolutbank.by/
+8. https://bankdabrabyt.by/
+9. https://rbank.by/
+10. https://www.belapb.by/
+11. https://www.belinvestbank.by/
+12. https://belgazprombank.by/
+13. https://www.bps-sberbank.by/
+14. https://www.btabank.by/
+15. https://www.ideabank.by/
+16. https://mtbank.by/
+17. https://www.paritetbank.by/
+18. https://www.priorbank.by/
+19. https://www.rrb.by/
+20. https://www.tb.by/
+21. https://www.tcbank.by/
+22. https://fransabank.by/
+23. https://www.zepterbank.by/
+24. https://stbank.by/
 ---
 
 To do:
