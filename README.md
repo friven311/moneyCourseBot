@@ -35,10 +35,10 @@ Links on open API
 
 To do:
 ========================
-1. Find out all bank API's  in Minsk.
-2. Bot for taking rate from Alfa bank.
-3. Bot for taking rate from ...
-4. ...
+~~1. Find out all bank API's  in Minsk.~~
+~~2. Bot for taking rate from Alfa bank.~~
+~~3. Bot for taking rate from ...~~
+~~4. ...~~
 From the whole list there are only 2 APIs, so desided to write simple parser, using Jquery
-6. Add to this bot a function for comparison all the rates and finding the best course
-7. Add a post function
+5. Add to this bot a function for comparison all the rates and finding the best course
+6. Add a post function
