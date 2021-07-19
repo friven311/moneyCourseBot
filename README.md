@@ -5,7 +5,7 @@ Technical task
 Bot for taking all the exchange rate of dollar, compare it and post the best rate with site and addres of the bank each 10 minutes.
 
 ---
-Links on open API
+Links on banks
 ========================
 1. https://alfa-biz.by/
 2. https://belarusbank.by/
